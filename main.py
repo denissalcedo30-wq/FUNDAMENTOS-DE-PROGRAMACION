@@ -1,1 +1,1 @@
-print("YERSON ES EL MAS BOT DEL MUNDO")
+print("Buenos días, docente. Somos el Grupo N.º 5 y en esta oportunidad presentaremos nuestro proyecto.")
